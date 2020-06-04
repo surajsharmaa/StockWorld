@@ -1,12 +1,7 @@
 # StockWorld
 This project intend to automate simple actions one performs while trading stocks.
 
-<!DOCTYPE html>
-<html>
-<head>
-	<link rel="stylesheet" href="styles.css">
-</head>
-<body>
+
 <h1>Calculate Average cost for your share</h1>
 <form>
 <p>If I have <input name= "ashare" id="AShares" size="7" type="text"> shares bought at $<input id="APrice" size="7" type="text"></p>
@@ -20,8 +15,5 @@ This project intend to automate simple actions one performs while trading stocks
 
 </form>
 
-</body>
-<footer>
-	<script async src="calculator.js"></script>
-</footer>
-</html>
+<script async src="calculator.js"></script>
+
