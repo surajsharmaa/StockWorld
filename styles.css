@@ -1,0 +1,14 @@
+body {
+  background-color: white-space;
+}
+h1 {
+  color: blue;
+}
+p {
+  color: black;
+}
+form {
+	background-color: white;
+	border-style: solid;
+	width: 50%;
+}
